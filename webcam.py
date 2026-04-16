@@ -1,4 +1,4 @@
-#Modifed by Prof.
+#Modifed by Prof.Kim
 import cv2
 
 def main():
