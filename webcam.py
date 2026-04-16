@@ -1,4 +1,4 @@
-#Modifed by Prof.Kim
+#Modifed by Prof.Kim on 2026
 import cv2
 
 def main():
